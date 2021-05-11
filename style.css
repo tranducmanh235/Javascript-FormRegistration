@@ -1,0 +1,17 @@
+body {
+  margin: 0 auto;
+}
+
+.content {
+  margin-top: 30px;
+  margin-bottom: 30px;
+  margin-left: 30%;
+  width: 40%;
+}
+
+.content form {
+  font-size: 18px;
+  padding: 20px;
+  background-color: #accaec;
+}
+/*# sourceMappingURL=style.css.map */
